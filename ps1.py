@@ -154,7 +154,7 @@ cows = load_cows("ps1_cow_data.txt")
 limit=100
 print(cows)
 #print(cast_to_sorted_list_of_named_tuples(cows))
-# print(greedy_cow_transport({'Abby': 38, 'Willow': 35, 'Dottie': 85, 'Daisy': 50, 'Coco': 10, 'Buttercup': 72, 'Betsy': 65, 'Rose': 50, 'Lilly': 24, 'Patches': 12}, 100))
+#print(greedy_cow_transport({'Abby': 38, 'Willow': 35, 'Dottie': 85, 'Daisy': 50, 'Coco': 10, 'Buttercup': 72, 'Betsy': 65, 'Rose': 50, 'Lilly': 24, 'Patches': 12}, 100))
 #print(brute_force_cow_transport({'Milkshake': 40, 'Miss Bella': 25, 'MooMoo': 50, 'Lotus': 40, 'Horns': 25, 'Boo': 20}, 100))
 compare_cow_transport_algorithms()
 

@@ -1,8 +1,7 @@
 ###########################
 # 6.00.2x Problem Set 1: Space Cows 
 
-from ps1_partition import get_partitions
-import time
+from pset1.ps1_partition import get_partitions
 from collections import namedtuple
 #================================
 # Part A: Transporting Space Cows
